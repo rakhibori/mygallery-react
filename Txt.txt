@@ -1,0 +1,6 @@
+1.sakht api bar aksha ba json server
+2.estefade az redux
+3.sakht component valed be name mygallery va khandane aksha az api 
+4.sakhte 2 component farzande be name picture baraye neshan dadane aksha va component pictureDetails baraye neshan dadan joziyate har aks
+5.search tasavir
+

@@ -1,0 +1,220 @@
+{
+  "myGallery":[
+    {
+      "id":1,
+      "name":"bmw1.avif",
+      "image":"./image/car/1.avif",
+      "width":626,
+      "height":376,
+      "size":22.4,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":2,
+      "name":"bluecar2.avif",
+      "image":"./image/car/2.avif",
+      "width":626,
+      "height":352,
+      "size":16.9,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":3,
+      "name":"blackcar3.avif",
+      "image":"./image/car/3.avif",
+      "width":626,
+      "height":428,
+      "size":33.1,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":4,
+      "name":"bluecar4.avif",
+      "image":"./image/car/4.avif",
+      "width":626,
+      "height":417,
+      "size":35.4,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":5,
+      "name":"ferrari5.avif",
+      "image":"./image/car/5.avif",
+      "width":626,
+      "height":470,
+      "size":24.9,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":6,
+      "name":"porsche6.avif",
+      "image":"./image/car/6.avif",
+      "width":626,
+      "height":417,
+      "size":32.1,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":7,
+      "name":"silvercar7.avif",
+      "image":"./image/car/7.avif",
+      "width":626,
+      "height":417,
+      "size":14.9,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":8,
+      "name":"pinkcar8.avif",
+      "image":"./image/car/8.avif",
+      "width":626,
+      "height":417,
+      "size":34.2,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":9,
+      "name":"Blackcar9.avif",
+      "image":"./image/car/9.avif",
+      "width":626,
+      "height":417,
+      "size":25.3,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":10,
+      "name":"yellowcar10.avif",
+      "image":"./image/car/10.avif",
+      "width":626,
+      "height":417,
+      "size":20.4,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":11,
+      "name":"graycar11.avif",
+      "image":"./image/car/11.avif",
+      "width":626,
+      "height":423,
+      "size":46.6,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":12,
+      "name":"benz12.avif",
+      "image":"./image/car/12.avif",
+      "width":626,
+      "height":351,
+      "size":33.1,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":13,
+      "name":"yellowoldcar13.avif",
+      "image":"./image/car/13.avif",
+      "width":626,
+      "height":417,
+      "size":36.9,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":14,
+      "name":"blueoldcar14.avif",
+      "image":"./image/car/14.avif",
+      "width":626,
+      "height":417,
+      "size":24.6,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":15,
+      "name":"blackkcar15.avif",
+      "image":"./image/car/15.avif",
+      "width":626,
+      "height":418,
+      "size":26.0,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":16,
+      "name":"yellowwcar16.avif",
+      "image":"./image/car/16.avif",
+      "width":626,
+      "height":417,
+      "size":28.4,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":17,
+      "name":"orangecar17.avif",
+      "image":"./image/car/17.avif",
+      "width":626,
+      "height":417,
+      "size":14.9,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":18,
+      "name":"greencar18.avif",
+      "image":"./image/car/18.avif",
+      "width":626,
+      "height":417,
+      "size":20.7,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":19,
+      "name":"car19.avif",
+      "image":"./image/car/19.avif",
+      "width":626,
+      "height":417,
+      "size":15.2,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":20,
+      "name":"blackclassiccar20.avif",
+      "image":"./image/car/20.avif",
+      "width":626,
+      "height":417,
+      "size":24.9,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":21,
+      "name":"redcar21.avif",
+      "image":"./image/car/21.avif",
+      "width":626,
+      "height":351,
+      "size":21.0,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":22,
+      "name":"chevrolet22.avif",
+      "image":"./image/car/22.avif",
+      "width":626,
+      "height":351,
+      "size":41.5,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":23,
+      "name":"lamburgini23.avif",
+      "image":"./image/car/23.avif",
+      "width":626,
+      "height":417,
+      "size":24.9,
+      "type":"AVIF FILE"
+    },
+    {
+      "id":24,
+      "name":"yellowferrari24.avif",
+      "image":"./image/car/24.avif",
+      "width":626,
+      "height":417,
+      "size":28.9,
+      "type":"AVIF FILE"
+    }
+  ]
+}
